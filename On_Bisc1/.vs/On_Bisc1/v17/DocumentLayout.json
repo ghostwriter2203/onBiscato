@@ -1,0 +1,444 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\formnovasolicitacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:formnovasolicitacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\cadastroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:cadastroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|c:\\users\\hpi7\\source\\repos\\tarefa\\on_bisc1\\formboasvindas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:formboasvindas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|c:\\users\\hpi7\\source\\repos\\tarefa\\on_bisc1\\formboasvindas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:formboasvindas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|c:\\users\\hpi7\\source\\repos\\tarefa\\on_bisc1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\formnovasolicitacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:formnovasolicitacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\formchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:formchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\formchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:formchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|c:\\users\\hpi7\\source\\repos\\tarefa\\on_bisc1\\conex\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:conex\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\formloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:formloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\formloading.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:formloading.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\formloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:formloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\cadastroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:cadastroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\sessaousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:sessaousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\cadastroform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:cadastroform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\cadastroform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:cadastroform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\formservi\u00E7os.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:formservi\u00E7os.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\formperfilcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:formperfilcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5C2B76-4EB6-4008-8EDF-756153260155}|On_Bisc1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormNovaSolicitacao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormNovaSolicitacao.cs",
+              "RelativeDocumentMoniker": "FormNovaSolicitacao.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormNovaSolicitacao.cs [Design]",
+              "RelativeToolTip": "FormNovaSolicitacao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:39:51.679Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormNovaSolicitacao.cs",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormNovaSolicitacao.cs",
+              "RelativeDocumentMoniker": "FormNovaSolicitacao.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormNovaSolicitacao.cs",
+              "RelativeToolTip": "FormNovaSolicitacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:12:07.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\Form3.cs [Design]",
+              "RelativeToolTip": "Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:27:26.557Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\Form5.cs [Design]",
+              "RelativeToolTip": "Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:02:14.981Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\AdminForm.cs",
+              "RelativeToolTip": "AdminForm.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:33:57.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\AdminForm.cs [Design]",
+              "RelativeToolTip": "AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:36:09.671Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T10:45:49.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormBoasVindas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormBoasVindas.cs",
+              "RelativeDocumentMoniker": "FormBoasVindas.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormBoasVindas.cs [Design]",
+              "RelativeToolTip": "FormBoasVindas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:36:53.219Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadastroForm.cs",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\CadastroForm.cs",
+              "RelativeDocumentMoniker": "CadastroForm.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\CadastroForm.cs",
+              "RelativeToolTip": "CadastroForm.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAqwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T00:14:24.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAAAOIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T22:40:34.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormLoading.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormLoading.cs",
+              "RelativeDocumentMoniker": "FormLoading.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormLoading.cs [Design]",
+              "RelativeToolTip": "FormLoading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:09:29.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormChat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormChat.cs",
+              "RelativeDocumentMoniker": "FormChat.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormChat.cs [Design]",
+              "RelativeToolTip": "FormChat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:55:04.73Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:05:19.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormBoasVindas.cs",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormBoasVindas.cs",
+              "RelativeDocumentMoniker": "FormBoasVindas.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormBoasVindas.cs",
+              "RelativeToolTip": "FormBoasVindas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:05:50.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:00:11.031Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Conex\u00E3o.cs",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\Conex\u00E3o.cs",
+              "RelativeDocumentMoniker": "Conex\u00E3o.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\Conex\u00E3o.cs",
+              "RelativeToolTip": "Conex\u00E3o.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T22:05:26.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormLoading.cs",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormLoading.cs",
+              "RelativeDocumentMoniker": "FormLoading.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormLoading.cs",
+              "RelativeToolTip": "FormLoading.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:36:54.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormChat.cs",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormChat.cs",
+              "RelativeDocumentMoniker": "FormChat.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormChat.cs",
+              "RelativeToolTip": "FormChat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:26:06.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormLoading.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormLoading.Designer.cs",
+              "RelativeDocumentMoniker": "FormLoading.Designer.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormLoading.Designer.cs",
+              "RelativeToolTip": "FormLoading.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwC4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:35:08.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CadastroForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\CadastroForm.cs",
+              "RelativeDocumentMoniker": "CadastroForm.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\CadastroForm.cs [Design]",
+              "RelativeToolTip": "CadastroForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T00:00:02.901Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SessaoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\SessaoUsuario.cs",
+              "RelativeDocumentMoniker": "SessaoUsuario.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\SessaoUsuario.cs",
+              "RelativeToolTip": "SessaoUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:38:55.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormServi\u00E7os.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormServi\u00E7os.cs",
+              "RelativeDocumentMoniker": "FormServi\u00E7os.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormServi\u00E7os.cs [Design]",
+              "RelativeToolTip": "FormServi\u00E7os.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:28:58.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormPerfilCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormPerfilCliente.cs",
+              "RelativeDocumentMoniker": "FormPerfilCliente.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\FormPerfilCliente.cs [Design]",
+              "RelativeToolTip": "FormPerfilCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:30:01.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CadastroForm.resx",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\CadastroForm.resx",
+              "RelativeDocumentMoniker": "CadastroForm.resx",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\CadastroForm.resx",
+              "RelativeToolTip": "CadastroForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-06T17:55:13.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CadastroForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\CadastroForm.Designer.cs",
+              "RelativeDocumentMoniker": "CadastroForm.Designer.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\CadastroForm.Designer.cs",
+              "RelativeToolTip": "CadastroForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:55:13.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\HPi7\\source\\repos\\Tarefa\\On_Bisc1\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:00:07.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
