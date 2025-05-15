@@ -199,7 +199,7 @@
             this.guna2HtmlLabel1.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel1.Font = new System.Drawing.Font("Segoe UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(104)))), ((int)(((byte)(109)))));
-            this.guna2HtmlLabel1.Location = new System.Drawing.Point(17, 10);
+            this.guna2HtmlLabel1.Location = new System.Drawing.Point(38, 34);
             this.guna2HtmlLabel1.Margin = new System.Windows.Forms.Padding(2);
             this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
             this.guna2HtmlLabel1.Size = new System.Drawing.Size(114, 32);
@@ -245,7 +245,7 @@
             this.labelUsuario.BackColor = System.Drawing.Color.Transparent;
             this.labelUsuario.Font = new System.Drawing.Font("Segoe UI", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelUsuario.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(93)))), ((int)(((byte)(101)))), ((int)(((byte)(111)))));
-            this.labelUsuario.Location = new System.Drawing.Point(1044, 10);
+            this.labelUsuario.Location = new System.Drawing.Point(1003, 22);
             this.labelUsuario.Margin = new System.Windows.Forms.Padding(2);
             this.labelUsuario.Name = "labelUsuario";
             this.labelUsuario.Size = new System.Drawing.Size(199, 32);
@@ -267,7 +267,7 @@
             this.painelUsuarios.Location = new System.Drawing.Point(32, 29);
             this.painelUsuarios.Margin = new System.Windows.Forms.Padding(2);
             this.painelUsuarios.Name = "painelUsuarios";
-            this.painelUsuarios.Size = new System.Drawing.Size(268, 223);
+            this.painelUsuarios.Size = new System.Drawing.Size(280, 223);
             this.painelUsuarios.TabIndex = 0;
             this.painelUsuarios.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2CustomGradientPanel3_Paint);
             // 
@@ -276,7 +276,7 @@
             this.numero_usuarios.BackColor = System.Drawing.Color.Transparent;
             this.numero_usuarios.Font = new System.Drawing.Font("Segoe UI", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.numero_usuarios.ForeColor = System.Drawing.Color.White;
-            this.numero_usuarios.Location = new System.Drawing.Point(0, 81);
+            this.numero_usuarios.Location = new System.Drawing.Point(10, 81);
             this.numero_usuarios.Margin = new System.Windows.Forms.Padding(2);
             this.numero_usuarios.Name = "numero_usuarios";
             this.numero_usuarios.Size = new System.Drawing.Size(268, 47);
@@ -309,10 +309,10 @@
             this.painelServicos.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(79)))), ((int)(((byte)(96)))));
             this.painelServicos.FillColor3 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(79)))), ((int)(((byte)(96)))));
             this.painelServicos.FillColor4 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(79)))), ((int)(((byte)(96)))));
-            this.painelServicos.Location = new System.Drawing.Point(517, 29);
+            this.painelServicos.Location = new System.Drawing.Point(507, 29);
             this.painelServicos.Margin = new System.Windows.Forms.Padding(2);
             this.painelServicos.Name = "painelServicos";
-            this.painelServicos.Size = new System.Drawing.Size(272, 223);
+            this.painelServicos.Size = new System.Drawing.Size(289, 223);
             this.painelServicos.TabIndex = 1;
             // 
             // numero_servicos
@@ -320,7 +320,7 @@
             this.numero_servicos.BackColor = System.Drawing.Color.Transparent;
             this.numero_servicos.Font = new System.Drawing.Font("Segoe UI", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.numero_servicos.ForeColor = System.Drawing.Color.White;
-            this.numero_servicos.Location = new System.Drawing.Point(4, 81);
+            this.numero_servicos.Location = new System.Drawing.Point(19, 90);
             this.numero_servicos.Margin = new System.Windows.Forms.Padding(2);
             this.numero_servicos.Name = "numero_servicos";
             this.numero_servicos.Size = new System.Drawing.Size(268, 47);
@@ -357,10 +357,12 @@
             // numero_solicitacoes
             // 
             this.numero_solicitacoes.BackColor = System.Drawing.Color.Transparent;
-            this.numero_solicitacoes.Location = new System.Drawing.Point(89, 104);
+            this.numero_solicitacoes.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.numero_solicitacoes.ForeColor = System.Drawing.Color.White;
+            this.numero_solicitacoes.Location = new System.Drawing.Point(49, 96);
             this.numero_solicitacoes.Margin = new System.Windows.Forms.Padding(2);
             this.numero_solicitacoes.Name = "numero_solicitacoes";
-            this.numero_solicitacoes.Size = new System.Drawing.Size(86, 15);
+            this.numero_solicitacoes.Size = new System.Drawing.Size(178, 32);
             this.numero_solicitacoes.TabIndex = 2;
             this.numero_solicitacoes.Text = "guna2HtmlLabel7";
             // 
@@ -385,10 +387,10 @@
             this.guna2CustomGradientPanel6.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(79)))), ((int)(((byte)(96)))));
             this.guna2CustomGradientPanel6.FillColor3 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(79)))), ((int)(((byte)(96)))));
             this.guna2CustomGradientPanel6.FillColor4 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(79)))), ((int)(((byte)(96)))));
-            this.guna2CustomGradientPanel6.Location = new System.Drawing.Point(32, 352);
+            this.guna2CustomGradientPanel6.Location = new System.Drawing.Point(32, 300);
             this.guna2CustomGradientPanel6.Margin = new System.Windows.Forms.Padding(2);
             this.guna2CustomGradientPanel6.Name = "guna2CustomGradientPanel6";
-            this.guna2CustomGradientPanel6.Size = new System.Drawing.Size(518, 339);
+            this.guna2CustomGradientPanel6.Size = new System.Drawing.Size(381, 302);
             this.guna2CustomGradientPanel6.TabIndex = 3;
             // 
             // guna2HtmlLabel6
@@ -396,7 +398,7 @@
             this.guna2HtmlLabel6.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel6.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(248)))), ((int)(((byte)(249)))));
-            this.guna2HtmlLabel6.Location = new System.Drawing.Point(206, 24);
+            this.guna2HtmlLabel6.Location = new System.Drawing.Point(121, 26);
             this.guna2HtmlLabel6.Margin = new System.Windows.Forms.Padding(2);
             this.guna2HtmlLabel6.Name = "guna2HtmlLabel6";
             this.guna2HtmlLabel6.Size = new System.Drawing.Size(137, 23);
@@ -411,10 +413,10 @@
             this.guna2CustomGradientPanel8.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(79)))), ((int)(((byte)(96)))));
             this.guna2CustomGradientPanel8.FillColor3 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(79)))), ((int)(((byte)(96)))));
             this.guna2CustomGradientPanel8.FillColor4 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(79)))), ((int)(((byte)(96)))));
-            this.guna2CustomGradientPanel8.Location = new System.Drawing.Point(773, 352);
+            this.guna2CustomGradientPanel8.Location = new System.Drawing.Point(863, 300);
             this.guna2CustomGradientPanel8.Margin = new System.Windows.Forms.Padding(2);
             this.guna2CustomGradientPanel8.Name = "guna2CustomGradientPanel8";
-            this.guna2CustomGradientPanel8.Size = new System.Drawing.Size(477, 339);
+            this.guna2CustomGradientPanel8.Size = new System.Drawing.Size(387, 302);
             this.guna2CustomGradientPanel8.TabIndex = 5;
             // 
             // guna2HtmlLabel8
@@ -422,7 +424,7 @@
             this.guna2HtmlLabel8.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel8.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2HtmlLabel8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(248)))), ((int)(((byte)(249)))));
-            this.guna2HtmlLabel8.Location = new System.Drawing.Point(182, 24);
+            this.guna2HtmlLabel8.Location = new System.Drawing.Point(127, 26);
             this.guna2HtmlLabel8.Margin = new System.Windows.Forms.Padding(2);
             this.guna2HtmlLabel8.Name = "guna2HtmlLabel8";
             this.guna2HtmlLabel8.Size = new System.Drawing.Size(147, 23);
@@ -463,7 +465,6 @@
             this.Name = "DashboardAdmin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form4";
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.guna2CustomGradientPanel1.ResumeLayout(false);
             this.guna2CustomGradientPanel1.PerformLayout();
             this.guna2GradientPanel1.ResumeLayout(false);

@@ -205,6 +205,9 @@
     <EmbeddedResource Include="FormNovaSolicitacao.resx">
       <DependentUpon>FormNovaSolicitacao.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormPerfilCliente.resx">
+      <DependentUpon>FormPerfilCliente.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>

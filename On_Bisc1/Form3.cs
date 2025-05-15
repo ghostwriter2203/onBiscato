@@ -381,5 +381,27 @@ namespace On_Bisc1
         {
 
         }
+
+        private void btnHome_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnMeusPedidos_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnServicos_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnPerfil_Click(object sender, EventArgs e)
+        {
+            FormPerfilCliente perfil = new FormPerfilCliente(SessaoUsuario.UsuarioId, this); // `this` é o DashboardCliente
+            perfil.Show();
+            this.Hide();
+        }
     }
 }
